@@ -1,5 +1,5 @@
 #!/bin/bash
 
-echo " Hello, i am Piyush"
-
+echo "Hello, I am Piyush"
 echo "I am doing DevOps"
+echo "Hello DevOps!"
